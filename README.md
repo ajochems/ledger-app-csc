@@ -3,7 +3,7 @@ CSC wallet application for Ledger Blue and Nano S
 
 ## Introduction
 
-This is a wallet app for the [Ledger Nano S](https://www.ledgerwallet.com/products/ledger-nano-s) and [Ledger Blue](https://www.ledgerwallet.com/products/ledger-blue) that makes it possible to store your [Casinocoin](https://www.casinocoin.org/)-based assets on those devices.
+This is a wallet app for the [Ledger Nano S](https://www.ledgerwallet.com/products/ledger-nano-s) and [Ledger Blue](https://www.ledgerwallet.com/products/ledger-blue) that makes it possible to store your [CasinoCoin](https://www.casinocoin.org/)-based assets on those devices.
 
 A companion [Javascript library](https://github.com/LedgerHQ/ledgerjs) is available to communicate with this app.
 

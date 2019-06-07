@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "cscbase58.h": "c",
-        "stdbool.h": "c",
-        "cscparse.h": "c",
-        "cschelpers.h": "c",
-        "string.h": "c"
-    }
-}
