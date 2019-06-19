@@ -213,7 +213,7 @@ unsigned short csc_print_amount(uint64_t amount, uint8_t *out, uint32_t outlen) 
     }
     tmp[i] = '\0';
     strcpy(tmp2, "CSC ");
-    adjustDecimals(tmp, i, tmp2 + 4, 25, 6);
+    adjustDecimals(tmp, i, tmp2 + 4, 25, 8);
     if (strlen(tmp2) < outlen - 1) {
         strcpy(out, tmp2);        
     }    
