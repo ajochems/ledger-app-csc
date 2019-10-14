@@ -20,5 +20,7 @@ Like another alternative you can use [Docker](https://www.docker.com/) for build
 The command to compile and load the app onto the device is:
 
 ```$ make load```
+
 To remove the app from the device do:
+
 ```$ make delete```
